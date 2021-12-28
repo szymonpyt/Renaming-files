@@ -1,3 +1,3 @@
 # renaming-files
 
-Script to keep files tidy
+Script to keep music files tidy
